@@ -514,4 +514,4 @@ elif page == "Export/Settings":
                 except:
                     pass
 
-st.markdown("<br><br><center>Made with ❤️ — ShopSmart demo app for university project</center>", unsafe_allow_html=True)
+st.markdown("<br><br><center>Made with TARUN — ShopSmart demo app for university project</center>", unsafe_allow_html=True)
